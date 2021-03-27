@@ -67,6 +67,7 @@ public class Main {
             System.out.println(projects[i]);
         }
     }
+    //TODO do a change log module
     public static void showChangeLog(){
         System.out.println("Change log: ");
         for (int i=0; i< changeLogCount; i++){
